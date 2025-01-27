@@ -18,6 +18,7 @@ main {
     border-radius: 8px;
     text-align: center;
     width: 300px;
+    margin: 0 auto;
    
 }
 
@@ -47,3 +48,4 @@ footer {
     display: flex;
     justify-content: center;
 }
+
